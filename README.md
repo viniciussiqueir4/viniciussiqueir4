@@ -30,6 +30,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://www.capitual.com/">Capitual</a>.</li>
+<li>🔭 1/3 developers <a href="https://scret.me/">Scretme</a>.</li>
 <li>🔗 My Profile at <a href="https://www.linkedin.com/in/marcos-vinicius-siqueira-893283180/">Linkedin</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>🎓 Graduate in Information Systems </li>
